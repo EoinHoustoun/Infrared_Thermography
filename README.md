@@ -17,8 +17,8 @@ The full Colab notebook is available here:
 👉 [`Infrared_Thermography_Temperature.ipynb`](./Infrared_Thermography_Temperature.ipynb)
 
 
-## Future Work
-
-- Test on real-time thermal camera feeds  
-- Compare clinical vs infrared prediction accuracy  
-- Integrate additional vital signs for multimodal learning
+## Some Results
+<img src="docs/assets/precrec.png" width="500"/>
+<img src="docs/assets/rmse.png" width="500"/>
+<img src="docs/assets/nn_xgb.png" width="500"/>
+<img src="docs/assets/featimp.png" width="500"/>
