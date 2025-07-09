@@ -18,7 +18,7 @@ The full Colab notebook is available here:
 
 
 ## Some Results
-<img src="docs/assets/precrec.png" width="500"/>
-<img src="docs/assets/rmse.png" width="500"/>
-<img src="docs/assets/nn_xgb.png" width="500"/>
-<img src="docs/assets/featimp.png" width="500"/>
+<img src="docs/assets/precrec.png" width="700"/>
+<img src="docs/assets/rmse.png" width="700"/>
+<img src="docs/assets/nn_xgb.png" width="700"/>
+<img src="docs/assets/featimp.png" width="700"/>
