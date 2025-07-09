@@ -2,7 +2,7 @@
 
 This project uses machine learning to predict oral temperature based on sensor data collected from infrared thermography. The aim is to explore whether non-invasive thermal data can be used to estimate fever status.
 
-<img src="docs/assets/infra.png" width="500"/>
+<img src="docs/assets/infra.png" width="800"/>
 
 ## Overview
 
