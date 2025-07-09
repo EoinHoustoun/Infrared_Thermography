@@ -29,7 +29,7 @@ The full Colab notebook is available here:
 <img src="docs/assets/featimp.png" width="700"/>
 
 
-# 6. CONCLUSION
+## Discussion
 
 This project presented a comprehensive machine learning workflow to model oral temperature and fever classification using the Infrared Thermography Temperature Dataset. The work followed a structured pipeline that included dataset exploration, methodological design, model development, validation strategies, and advanced neural network experimentation.
 
