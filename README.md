@@ -2,6 +2,8 @@
 
 This project uses machine learning to predict oral temperature based on sensor data collected from infrared thermography. The aim is to explore whether non-invasive thermal data can be used to estimate fever status.
 
+<img src="https://figures.semanticscholar.org/8d02352736f83f0d153ec956b610ee1d79a404e2/5-Figure2-1.png" alt="Monte Carlo CV Pipeline" width="600">
+
 ## Overview
 
 - Regression + classification using Python & scikit-learn  
